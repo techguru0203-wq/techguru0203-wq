@@ -88,8 +88,7 @@ I enjoy working with:
 ## 🤝 Connect With Me
 Always open to collaboration, code discussions, and cool ideas.
 
-📧 **Email:** Add your preferred email  
-🔗 **LinkedIn:** (Optional)  
+📧 **Email:** techguru0203@gmail.com
 
 ---
 
