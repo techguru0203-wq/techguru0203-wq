@@ -3,87 +3,76 @@
 <h1 align="center">👋 Hi, I'm <strong>Tech Guru</strong></h1>
 
 <p align="center">
-  <strong>Lead Developer • AI/ML & Automation Engineer • Founder of Pensiveverse Technologies</strong>
+  <strong>Software Developer • AI/ML & Automation Engineer • Full-Stack Problem Solver</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Automation%20%7C%20Cloud%20%7C%20Full--Stack-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tech-Python%20%7C%20JS%20%7C%20Node%20%7C%20React%20%7C%20Selenium-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Building-Pensiveverse%20Technologies-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Automation%20%7C%20Data%20%7C%20Full--Stack-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Core-Python%20%7C%20JavaScript%20%7C%20Node%20%7C%20React-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Developer-Always%20Building-purple?style=for-the-badge" />
 </p>
 
 ---
 
 ## 🚀 About Me
-I’m **Tech Guru**, a passionate and versatile software engineer dedicated to building high-impact digital solutions.
+I'm **Tech Guru**, a passionate developer focused on building smart, scalable, and efficient systems.  
+I specialize in blending **AI**, **automation**, and **software engineering** to solve real-world problems.
 
-I specialize in:
-
-- 🔬 **AI & Machine Learning**
-- 🤖 **Automation Engineering (Web, Data, Cloud)**
-- ⚙️ **Python-Driven Backend Development**
-- 🌐 **Full-Stack Web Applications**
-- ☁️ **Cloud-Powered Systems**
-- 🧩 **Business Process Optimization**
-
-I love creating tools that automate work, enhance workflows, and make technology smarter and more accessible.
+I enjoy working with:
+- Intelligent automation systems  
+- Data processing & transformation pipelines  
+- Cloud-based engineering  
+- Full-stack applications  
+- Experimental AI/ML projects  
+- Tools that simplify human workflows  
 
 ---
 
-## 🧠 Tech Stack & Expertise
+## 🧠 Tech Stack & Skills
 
 ### 🔹 **Languages**
-- Python, JavaScript, TypeScript, SQL  
+- Python  
+- JavaScript / TypeScript  
+- SQL  
+- Bash  
 
-### 🔹 **Frameworks & Tools**
+### 🔹 **Frameworks & Libraries**
 - **Automation:** Selenium, Playwright  
-- **AI/ML:** Pandas, NumPy, Scikit-Learn *(Deep learning stack coming soon)*  
+- **AI/ML:** Pandas, NumPy, Scikit-Learn, TensorFlow *(learning path)*  
 - **Backend:** Node.js, Express  
-- **Frontend:** React.js, Tailwind, Next.js *(learning path)*  
+- **Frontend:** React.js, TailwindCSS  
 - **Cloud:** Google Cloud, AWS (foundational)  
-- **Other:** REST APIs, CSV/Spreadsheet automation, CI/CD, Git  
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Selenium-Automation-success?style=for-the-badge&logo=selenium" />
   <img src="https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js" />
   <img src="https://img.shields.io/badge/React-Frontend-61dafb?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Data-Pandas%20%7C%20NumPy-blue?style=for-the-badge&logo=pandas" />
   <img src="https://img.shields.io/badge/Cloud-Engineering-critical?style=for-the-badge&logo=googlecloud" />
 </p>
 
 ---
 
-## 🏢 Founder of Pensiveverse Technologies
-I lead and develop solutions under **Pensiveverse Technologies**, focusing on:
+## 📌 Projects & Work
 
-- AI automation  
-- Smart data pipelines  
-- Cloud-integrated tools  
-- System intelligence & engineering  
-- Enterprise-ready web applications  
+### ✅ Current Projects
+- Spreadsheet & data automation tools  
+- Python utility modules  
+- Web automation frameworks  
+- Full-stack dashboards & services  
+- Logic & algorithm practice repositories  
 
-Pensiveverse exists to engineer intelligent solutions that scale with modern business needs.
-
----
-
-## 📌 Featured & Upcoming Projects
-
-### ✅ **Active Projects**
-- **Spreadsheet Automation Framework** (Python, Pandas, Google Sheets API)  
-- **PyCode Lab** – Algorithm & logic examples  
-- **Full-stack automation tools**  
-- **Python utility libraries**  
-
-### 🔥 **Upcoming AI/ML Projects**
-> *(Soon to be published and highlighted on this profile)*  
-- Machine Learning automation suite  
-- NLP-powered assistants  
-- Predictive analytics tools  
-- Automated business intelligence dashboards  
+### 🔥 Upcoming AI/ML Projects
+- Predictive analytics models  
+- NLP processing utilities  
+- AI-powered automation tools  
+- Machine learning pipelines  
+- Data intelligence dashboards  
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Statistics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=techguru0203-wq&show_icons=true&theme=tokyonight" />
@@ -96,19 +85,18 @@ Pensiveverse exists to engineer intelligent solutions that scale with modern bus
 
 ---
 
-## 🤝 Let's Connect
-I’m always open to collaborations, technical discussions, automation ideas, and AI-driven projects.
+## 🤝 Connect With Me
+Always open to collaboration, code discussions, and cool ideas.
 
 📧 **Email:** Add your preferred email  
-🏢 **Pensiveverse Technologies:** (Add website if any)  
-🔗 **LinkedIn:** (Add your LinkedIn)  
+🔗 **LinkedIn:** (Optional)  
 
 ---
 
 <p align="center">
-  <strong>✨ “Engineering intelligence through clean, scalable, and innovative technology.”</strong>
+  <strong>✨ “Code. Automate. Learn. Improve. Repeat.”</strong>
 </p>
 
 <p align="center">
-  🚀 More exciting projects coming soon...
+  🚀 More projects and AI work coming soon...
 </p>
