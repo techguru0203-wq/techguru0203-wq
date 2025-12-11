@@ -70,7 +70,6 @@ Current work focuses on expanding AI/ML tools and automation pipelines for real-
 - **pycode_lab** — Python algorithm snippets & demos  
 - **PyAutomationSpreadsheet** — Spreadsheet processing tool  
 - **Facial_Auth** — Python authentication project  
-- **google-maps-demo-app** — TypeScript UI demo
 
 *More projects coming soon as I expand into deeper AI and automation areas!*
 
