@@ -1,4 +1,4 @@
-<!-- PROFILE README FOR TECH GURU -->
+<!-- UPDATED PROFILE README FOR TECH GURU -->
 
 <h1 align="center">👋 Hi, I'm <strong>Tech Guru</strong></h1>
 
@@ -9,22 +9,22 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Automation%20%7C%20Data%20%7C%20Full--Stack-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Core-Python%20%7C%20JavaScript%20%7C%20Node%20%7C%20React-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Developer-Always%20Building-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Developer-Building%20Real%20Projects-purple?style=for-the-badge" />
 </p>
 
 ---
 
 ## 🚀 About Me
-I'm **Tech Guru**, a passionate developer focused on building smart, scalable, and efficient systems.  
-I specialize in blending **AI**, **automation**, and **software engineering** to solve real-world problems.
+I'm **Tech Guru**, a developer passionate about building real, practical systems using modern engineering tools.
 
-I enjoy working with:
-- Intelligent automation systems  
-- Data processing & transformation pipelines  
-- Cloud-based engineering  
-- Full-stack applications  
-- Experimental AI/ML projects  
-- Tools that simplify human workflows  
+I specialize in:
+- Machine Learning & predictive modeling
+- Intelligent automation workflows (n8n & scripting)
+- Full-stack application development
+- Data processing and transformation
+- Cloud-integrated solutions
+
+Current work focuses on expanding AI/ML tools and automation pipelines for real-world use.
 
 ---
 
@@ -34,14 +34,14 @@ I enjoy working with:
 - Python  
 - JavaScript / TypeScript  
 - SQL  
-- Bash  
+- Bash
 
-### 🔹 **Frameworks & Libraries**
-- **Automation:** Selenium, Playwright  
-- **AI/ML:** Pandas, NumPy, Scikit-Learn, TensorFlow *(learning path)*  
+### 🔹 **Frameworks & Tools**
+- **AI/ML:** Pandas, NumPy, scikit-learn, TensorFlow (learning)  
+- **Automation:** n8n, Selenium, Playwright  
 - **Backend:** Node.js, Express  
 - **Frontend:** React.js, TailwindCSS  
-- **Cloud:** Google Cloud, AWS (foundational)  
+- **Cloud:** Google Cloud, AWS (foundation)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python" />
@@ -54,21 +54,25 @@ I enjoy working with:
 
 ---
 
-## 📌 Projects & Work
+## 📌 Featured Projects
 
-### ✅ Current Projects
-- Spreadsheet & data automation tools  
-- Python utility modules  
-- Web automation frameworks  
-- Full-stack dashboards & services  
-- Logic & algorithm practice repositories  
+### ⚙️ Recent AI/ML Projects
+- **Handwritten Digit Recognition** — MLP classifier using sklearn digits  
+- **Spam Email Classifier** — RandomForest model on Spambase dataset  
+- **House Price Prediction** — Regression on California housing
 
-### 🔥 Upcoming AI/ML Projects
-- Predictive analytics models  
-- NLP processing utilities  
-- AI-powered automation tools  
-- Machine learning pipelines  
-- Data intelligence dashboards  
+### 🤖 Automation Workflows (n8n)
+- **Email → Google Sheets Logger** — Logs email data into sheets  
+- **Web Scraper + JSON Saver** — Fetches & parses web content  
+- **Weather Alert Automation** — API automation with notifications
+
+### 🚀 Other Repositories
+- **pycode_lab** — Python algorithm snippets & demos  
+- **PyAutomationSpreadsheet** — Spreadsheet processing tool  
+- **Facial_Auth** — Python authentication project  
+- **google-maps-demo-app** — TypeScript UI demo
+
+*More projects coming soon as I expand into deeper AI and automation areas!*
 
 ---
 
@@ -86,7 +90,7 @@ I enjoy working with:
 ---
 
 ## 🤝 Connect With Me
-Always open to collaboration, code discussions, and cool ideas.
+Always open to collaboration, code discussions, and cool technical ideas.
 
 📧 **Email:** techguru0203@gmail.com
 
